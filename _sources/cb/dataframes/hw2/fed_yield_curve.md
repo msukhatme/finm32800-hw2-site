@@ -73,7 +73,7 @@ $ Date    <datetime[ns]> 2026-10-16 00:00:00
 | Contributors                    | Jeremiah Bejarano |
 | Repository                     | https://github.com/hw-finm-32800/hw2                  |
 | Pipeline Web Page               | <a href="file:///Users/marco/Projects/finm-32800/hw2/docs/index.html">Pipeline Web Page      |
-| Date of Last Code Update        | 2026-10-26 23:44:14           |
+| Date of Last Code Update        | 2026-10-26 23:56:00           |
 | OS Compatibility                | Windows, Linux, macOS |
 | Linked Dataframes               |  [hw2:crsp_treasury_consolidated](../../dataframes/hw2/crsp_treasury_consolidated.md)<br>  [hw2:fed_yield_curve](../../dataframes/hw2/fed_yield_curve.md)<br>  [hw2:fed_funds_futures](../../dataframes/hw2/fed_funds_futures.md)<br>  |
 
